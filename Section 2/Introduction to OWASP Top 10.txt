@@ -1,0 +1,8 @@
+OWASP Foundation
+https://owasp.org/
+
+OWASP Top Ten
+https://owasp.org/www-project-top-ten/
+
+OWASP Cheat Sheet Series
+https://owasp.org/www-project-cheat-sheets/

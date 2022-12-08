@@ -1,0 +1,5 @@
+OpenID Foundation
+https://openid.net/
+
+Getting started with OepnID Connect
+https://developers.google.com/identity/openid-connect/openid-connect

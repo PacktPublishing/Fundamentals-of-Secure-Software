@@ -1,0 +1,8 @@
+CVSS at the NVD
+https://nvd.nist.gov/vuln-metrics/cvss
+
+CVE from Mitre
+https://cve.mitre.org/cve/
+
+CWE from Mitre
+https://cwe.mitre.org/
